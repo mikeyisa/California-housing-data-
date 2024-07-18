@@ -38,4 +38,17 @@ The dataset used in this project is the California Housing Prices dataset, which
 - **Matplotlib and Seaborn**: Libraries for data visualization.
 - **Scikit-learn**: Machine learning library for model building and evaluation.
 
-## Project Structure
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/california-housing-analysis.git
+   cd california-housing-analysis
+
+python3 -m venv venv
+source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+
+pip install -r requirements.txt
+
+- **Conclusion
+- **This project analyzes the housing market in California, identifying key factors influencing housing prices and developing a predictive model for future price predictions. The insights can be valuable for policymakers, real estate professionals, and homebuyers
